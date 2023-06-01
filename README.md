@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AnirudhBagalkotker
-- 👀 I’m interested in programming in C and Python and a Web Developer
-- 🌱 I’m currently learning C++ and Javascript
-- 💞️ I’m looking to collaborate on ... 
+- 👋 Hi, I’m @AnirudhBagalkotker, a Web Developer
+- 👀 I’m interested in programming in C, C++, JavaScript, NodeJS and Python
+- 🌱 I’m currently learning React and Web Designing
 - 📫 How to reach me - anirudhbagalkotker@gmail.com
 
 
