@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnirudhBagalkotker, a Web Developer
-- 👀 I’m interested in programming in C, C++, JavaScript, NodeJS and Python
-- 🌱 I’m currently learning React and Web Designing
+- 👀 I’m a Node.js Developer, Proficient in Next.js, React.js, Express.js and also have vast experience in Python, C++ and Java
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me - anirudhbagalkotker@gmail.com
 
 
